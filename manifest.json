@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Squares",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Squares",
+    "default_popup": "popup.html"
+  }
+}
